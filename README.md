@@ -36,7 +36,7 @@ Apresentação do projeto disponível em:
 
 ## 📷 Imagem do Circuito
 
-![Circuito](imagens/circuito.png)
+![Circuito](imagens/image.png)
 
 ## 📂 Código Fonte
 
