@@ -48,10 +48,6 @@ Comentado e organizado para facilitar entendimento e modificação.
 
 Este projeto não utiliza MQTT ou HTTP devido à limitação do simulador Wokwi. A comunicação pode ser expandida futuramente com integração real via Wi-Fi e protocolos IoT.
 
-## 🎥 Vídeo Explicativo
-
-- Link do vídeo: [YouTube ou Drive](https://link-do-video)
-
 ## ✅ Resultados Esperados
 
 - Detecção de ambientes desconfortáveis (calor + pouca luz)
