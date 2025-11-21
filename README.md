@@ -7,8 +7,8 @@ Com o crescimento do trabalho remoto, muitos profissionais enfrentam fadiga e m�
 👥 Integrantes
 
 - Guilherme Daher – RM98611
-= Gustavo Akio – RM550241
-= Heitor Nobre – RM551539
+- Gustavo Akio – RM550241
+- Heitor Nobre – RM551539
 
 ## 💡 Solução
 
